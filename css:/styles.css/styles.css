@@ -1,0 +1,18 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #fffaf5;
+    color: #222;
+  }
+  
+  h1, h2, h5 {
+    color: #111;
+  }
+  
+  img {
+    transition: transform 0.2s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.02);
+  }
+  
